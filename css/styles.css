@@ -1,0 +1,164 @@
+/* font-family: 'Andika New Basic', sans-serif; regular 400
+font-family: 'Montserrat', sans-serif; 700
+font-family: 'Ubuntu', sans-serif medium 500
+colors: #ff5722;
+#00bcd4;
+*/
+body {
+  /* background-color: #00bcd4; */
+  font-family: 'Andika New Basic', sans-serif;
+  font-weight: 400;
+  padding-top: 20px;
+  font-size: 18px;
+  line-height: 1.5;
+  text-align: center;
+}
+
+h1{
+  font-family: 'Ubuntu', sans-serif;
+  font-weight:500;
+  font-size: 36px;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 700;
+}
+
+/* .nav-item{
+  margin: 0 20px;
+} */
+
+.big-heading{
+  font-size: 48px;
+}
+
+
+.the-change{
+  font-family: 'Pacifico', cursive;
+  font-size: 48px;
+  padding-top: 100px;
+}
+.row{
+  padding-top: 50px;
+  margin:0 0;
+}
+
+.container-fluid{
+  padding: 0 100px;
+}
+
+.top-paragraph{
+  margin-top: 150px;
+}
+
+.man-coding{
+  width: 725px;
+
+}
+
+.nav-item{
+  margin: 0 20px;
+}
+
+.who-are-we{
+  text-align: center;
+  background-color: #00bcd4;
+  padding: 50px;
+}
+
+.heading-who{
+  margin-bottom: 20px;
+  color: white;
+}
+
+.who-are-we-paragraph{
+  display: flex;
+  justify-content: center;
+  margin-top: 100px;
+  margin-left: 25px;
+  font-size: 24px;
+}
+
+.group-of-people{
+  width: 725px;
+}
+
+.what-we-offer{
+  /* background-color: white; */
+  background-color: #ff5722;
+  padding: 75px;
+}
+
+.images-cards{
+  width: 250px;
+  position: relative;
+  left: 30px;
+  top: 30px;
+  margin-bottom: 10px;
+}
+
+.image-more{
+  width:250px;
+  position: relative;
+  top: 30px;
+  margin-bottom: 10px;
+}
+
+.card-heading{
+  margin: 50px 0 20px;
+  font-size: 24px;
+}
+
+.happy-clients{
+  background-color: #00bcd4;
+}
+
+.carousel-item {
+  padding: 7% 15%;
+}
+
+.link-carousel{
+  color: #133b5c;
+}
+
+.link-carousel:hover{
+  color: #e6e6e6;
+}
+
+.our-clients{
+  font-size: 48px;
+  padding-top: 75px;
+  color: white;
+}
+
+#footer {
+  background-color: #2a2a2e;
+  color: white;
+  padding: 5% 5% 1%;
+}
+
+.footer-info{
+  text-align: left;
+}
+.footer-icon {
+  text-align: center;
+  padding: 0 3% 2%;
+}
+
+.footerp {
+  text-align: center;
+  color: grey;
+  margin-top: 5%;
+}
+
+.footer-heading{
+  margin-bottom: 5%;
+}
+
+.footer-link{
+  color: white;
+}
+.footer-link:hover{
+  color:#00bcd4;
+}
